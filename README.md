@@ -1,2 +1,2 @@
-# CALSRN
-Context-aware Lightweight Remote-Sensing Image Super-Resolution Network
+# SR
+All the code will be made public after the paper is accepted.
